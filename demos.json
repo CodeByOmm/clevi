@@ -3,291 +3,338 @@
     {
       "id": 1,
       "title": "Materio Dashboard FREE - Django 5",
-      "image": "https://clevision.net/wp-content/uploads/2022/02/sneat-hrml-pro-banner-2-thegem-product-justified-square-xl.png",
-      "link": "https://clevision.net/our-products/"
+      "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-free-django-featured-image.png",
+      "link": "https://demos.themeselection.com/materio-html-django-admin-template-free/",
+      "featured": "false"
     },
     {
       "id": 2,
       "title": "Sneat Dashboard FREE - Django 5",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/sneat-free-django-banner.png",
-      "link": "https://demos.themeselection.com/sneat-html-django-admin-template-free/"
+      "link": "https://demos.themeselection.com/sneat-html-django-admin-template-free/",
+      "featured": "false"
     },
     {
       "id": 3,
       "title": "Materio Dashboard PRO - Django 5",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/11/Materio-Bootstrap-Django-Main-Banner.png",
-      "link": "https://demos.themeselection.com/materio-html-django-admin-template/demo-1/login/?next=/materio-html-django-admin-template/demo-1/"
+      "link": "https://demos.themeselection.com/materio-html-django-admin-template/demo-1/login/?next=/materio-html-django-admin-template/demo-1/",
+      "featured": "false"
     },
     {
       "id": 4,
       "title": "Materio Dashboard FREE - Laravel 11",
       "image": "https://themeselection.com/wp-content/uploads/2024/08/materio-dashboard-free-laravel-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template-free/demo/"
+      "link": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template-free/demo/",
+      "featured": "false"
     },
     {
       "id": 5,
       "title": "Sneat Dashboard PRO - Django 5",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/09/banner-main.png",
-      "link": "https://demos.themeselection.com/sneat-html-django-admin-template/demo-1/login/?next=/sneat-html-django-admin-template/demo-1/"
+      "link": "https://demos.themeselection.com/sneat-html-django-admin-template/demo-1/login/?next=/sneat-html-django-admin-template/demo-1/",
+      "featured": "false"
     },
     {
       "id": 6,
       "title": "Materio Dashboard FREE - Bootstrap 5",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/09/Materio-Free-bootstrap-html-admin-template-main.png",
-      "link": "https://demos.themeselection.com/materio-bootstrap-html-admin-template-free/html/"
+      "link": "https://demos.themeselection.com/materio-bootstrap-html-admin-template-free/html/",
+      "featured": "false"
     },
     {
       "id": 7,
       "title": "Materio Dashboard PRO - Laravel 11",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/05/materio-bootstrap-laravel-11-featured-image-banner.png",
-      "link": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/"
+      "link": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/",
+      "featured": "false"
     },
     {
       "id": 8,
       "title": "Materio Dashboard PRO - Bootstrap 5",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/07/materio-html-main.png",
-      "link": "https://demos.themeselection.com/materio-bootstrap-html-admin-template/html/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/materio-bootstrap-html-admin-template/html/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 9,
       "title": "Big Bundle Sale",
       "image": "https://themeselection.com/wp-content/uploads/2024/12/winter-big-bundle-featured-card-banner.png",
-      "link": "https://themeselection.com/item/celebration-big-bundle-sale/#live-preview"
+      "link": "https://themeselection.com/item/celebration-big-bundle-sale/#live-preview",
+      "featured": "false"
     },
     {
       "id": 10,
       "title": "Sneat Dashboard FREE - Laravel 11",
       "image": "https://themeselection.com/wp-content/uploads/2024/07/sneat-dashboard-free-laravel-featured-image.png",
-      "link": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template-free/demo/"
+      "link": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template-free/demo/",
+      "featured": "false"
     },
     {
       "id": 11,
       "title": "Sneat Dashboard PRO - Laravel 11",
       "image": "https://themeselection.com/wp-content/uploads/2024/07/sneat-dashboard-pro-laravel-featured-banner.png",
-      "link": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/"
+      "link": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/",
+      "featured": "false"
     },
     {
       "id": 12,
       "title": "Sneat Dashboard FREE - Bootstrap",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/sneat-bootstrap-html-admin-template-free.png",
-      "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/"
+      "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+      "featured": "false"
     },
     {
       "id": 13,
       "title": "Sneat Dashboard PRO - Bootstrap",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/08/sneat-dashboard-pro-bootstrap-featured-image.png",
-      "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 14,
       "title": "CryptoDash Dashboard FREE",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/cryptodash-html-free-theme.png",
-      "link": "https://demos.themeselection.com/cryptodash-free-cryptocurrency-dashboard-template/demo/html/ltr/vertical-menu/"
+      "link": "https://demos.themeselection.com/cryptodash-free-cryptocurrency-dashboard-template/demo/html/ltr/vertical-menu/",
+      "featured": "false"
     },
     {
       "id": 15,
       "title": "Chameleon Dashboard PRO - Bootstrap",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/chameleon-html-admin-template-pro.png",
-      "link": "https://demos.themeselection.com/chameleon-admin-template/html/ltr/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/chameleon-admin-template/html/ltr/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 16,
       "title": "Chameleon Dashboard FREE - Bootstrap",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/chameleon-bootstrap-html-free.png",
-      "link": "https://demos.themeselection.com/chameleon-free-bootstrap-admin-template/html/ltr/"
+      "link": "https://demos.themeselection.com/chameleon-free-bootstrap-admin-template/html/ltr/",
+      "featured": "false"
     },
     {
       "id": 17,
       "title": "Sneat MUI NextJS Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/2024/08/sneat-mui-nextjs-admin-template-featured-banner.png",
-      "link": "https://demos.themeselection.com/sneat-mui-nextjs-admin-template/demo-1/en/login"
+      "link": "https://demos.themeselection.com/sneat-mui-nextjs-admin-template/demo-1/en/login",
+      "featured": "false"
     },
     {
       "id": 18,
       "title": "Materio MUI NextJS Admin -Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/06/materio-free-mui-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-mui-nextjs-admin-template-free/demo"
+      "link": "https://demos.themeselection.com/materio-mui-nextjs-admin-template-free/demo",
+      "featured": "false"
     },
     {
       "id": 19,
       "title": "Materio MUI NextJS Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/06/materio-nextjs-featured-banner-light.png",
-      "link": "https://demos.themeselection.com/materio-mui-nextjs-admin-template/demo-1/en/login"
+      "link": "https://demos.themeselection.com/materio-mui-nextjs-admin-template/demo-1/en/login",
+      "featured": "false"
     },
     {
       "id": 20,
       "title": "Sneat Vue 3 Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/2023/06/sneat-vue-free-main.png",
-      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/"
+      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/",
+      "featured": "false"
     },
     {
       "id": 21,
       "title": "Sneat Vue Laravel Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/07/sneat-vuetify-vuejs-laravel-admin-template-banner-featured.png",
-      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard"
+      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard",
+      "featured": "false"
     },
     {
       "id": 22,
       "title": "Sneat Vue 3 Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/03/sneat-vue-main.png",
-      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template/demo-1/login?to=/dashboards/crm"
+      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template/demo-1/login?to=/dashboards/crm",
+      "featured": "false"
     },
     {
       "id": 23,
       "title": "Sneat Vuejs Laravel Admin- Pro",
       "image": "https://themeselection.com/wp-content/uploads/2024/07/sneat-vuetify-vuejs-laravel-main-featured-banner.png",
-      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template/demo-1/login?to=/dashboards/crm"
+      "link": "https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template/demo-1/login?to=/dashboards/crm",
+      "featured": "false"
     },
     {
       "id": 24,
       "title": "Materio Vuejs Laravel Admin- Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/01/materio-vue-laravel-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-laravel-admin-template/demo-1/login?to=/dashboards/crm"
+      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-laravel-admin-template/demo-1/login?to=/dashboards/crm",
+      "featured": "false"
     },
     {
       "id": 25,
       "title": "Materio Vue Laravel Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/2024/01/materio-free-vue-laravel-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-laravel-admin-template-free/demo/dashboard"
+      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-laravel-admin-template-free/demo/dashboard",
+      "featured": "false"
     },
     {
       "id": 26,
       "title": "Materio Vue 3 Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/01/materio-free-vuejs-banner.png",
-      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-admin-template-free/demo/dashboard"
+      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-admin-template-free/demo/dashboard",
+      "featured": "false"
     },
     {
       "id": 27,
       "title": "Materio Vue 3 Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/2024/01/materio-vuejs-admin-template-featured-image.png",
-      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-admin-template/demo-1/login?to=/dashboards/crm"
+      "link": "https://demos.themeselection.com/materio-vuetify-vuejs-admin-template/demo-1/login?to=/dashboards/crm",
+      "featured": "false"
     },
     {
       "id": 28,
       "title": "Sneat NuxtJS 3 Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/07/sneat-free-vuetify-nuxtjs-admin-template-free-featured-image.png",
-      "link": "https://demos.themeselection.com/sneat-vuetify-nuxtjs-admin-template-free/demo/dashboard"
+      "link": "https://demos.themeselection.com/sneat-vuetify-nuxtjs-admin-template-free/demo/dashboard",
+      "featured": "false"
     },
     {
       "id": 29,
       "title": "Sneat Nuxt 3 Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/2024/07/sneat-vuetify-nuxtjs-admin-template-featured-banner.png",
-      "link": "https://demos.themeselection.com/sneat-vuetify-nuxtjs-admin-template/demo-1/login?to=/dashboards/crm"
+      "link": "https://demos.themeselection.com/sneat-vuetify-nuxtjs-admin-template/demo-1/login?to=/dashboards/crm",
+      "featured": "false"
     },
     {
       "id": 30,
       "title": "Materio NuxtJS 3 Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/01/materio-nuxt-free-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-vuetify-nuxtjs-admin-template-free/demo/dashboard"
+      "link": "https://demos.themeselection.com/materio-vuetify-nuxtjs-admin-template-free/demo/dashboard",
+      "featured": "false"
     },
     {
       "id": 31,
       "title": "Materio Nuxt 3 Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/2024/01/materio-vue-nuxt-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-vuetify-nuxtjs-admin-template/demo-1/login?to=/dashboards/crm"
+      "link": "https://demos.themeselection.com/materio-vuetify-nuxtjs-admin-template/demo-1/login?to=/dashboards/crm",
+      "featured": "false"
     },
     {
       "id": 32,
       "title": "Jetship Laravel Starter Kit - PRO",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/09/Jetship-laravel-boilerplate-featured-banner-main.png",
-      "link": "https://demos.themeselection.com/jetship-laravel-starter-kit-demo/"
+      "link": "https://demos.themeselection.com/jetship-laravel-starter-kit-demo/",
+      "featured":"true"
     },
     {
       "id": 33,
       "title": "Sneat Figma Admin UI Kit - FREE",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/07/sneat-free-figma-admin-dashboard-ui-kit-featured-banner.png",
-      "link": "https://www.figma.com/design/3OJsU0EgvxMdPoiGtmJ1rH/sneat-figma-dashboard-ui-kit-free-v1.0?node-id=870-37366&p=f"
+      "link": "https://www.figma.com/design/3OJsU0EgvxMdPoiGtmJ1rH/sneat-figma-dashboard-ui-kit-free-v1.0?node-id=870-37366&p=f",
+      "featured": "false"
     },
     {
       "id": 34,
       "title": "Sneat Figma Admin UI Kit - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/12/sneat-uikit-main.png",
-      "link": "https://www.figma.com/design/1d3dNezg2ackgmiHiocstB/sneat-figma-dashboard-builder-and-ui-kit-v3"
+      "link": "https://www.figma.com/design/1d3dNezg2ackgmiHiocstB/sneat-figma-dashboard-builder-and-ui-kit-v3",
+      "featured": "false"
     },
     {
       "id": 35,
       "title": "Materio Figma Admin UI Kit - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/01/banner.png",
-      "link": "https://www.figma.com/design/VYVXmRmlHdbyrjFru3g6R0/materio-figma-admin-dashboard-uikit-V3.0.0"
+      "link": "https://www.figma.com/design/VYVXmRmlHdbyrjFru3g6R0/materio-figma-admin-dashboard-uikit-V3.0.0",
+      "featured": "false"
     },
     {
       "id": 36,
       "title": "Sneat- Sketch Admin UI Kit - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/Sneat-Sketch-bootstrap-ui-kit.png",
-      "link": "https://scene.zeplin.io/project/60d18472ab2369110741a0d6"
+      "link": "https://scene.zeplin.io/project/60d18472ab2369110741a0d6",
+      "featured": "false"
     },
     {
       "id": 37,
       "title": "Figma Bootstrap 5 UI Kit",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/figma-bootstrap-5-ui-kit.png",
-      "link": "https://www.figma.com/design/Cy8pNqIB9Px6zgR28lbhf9/Free-Figma-Bootstrap-5-UI-Kit?node-id=134-0&p=f"
+      "link": "https://www.figma.com/design/Cy8pNqIB9Px6zgR28lbhf9/Free-Figma-Bootstrap-5-UI-Kit?node-id=134-0&p=f",
+      "featured": "false"
     },
     {
       "id": 38,
       "title": "Sketch Bootstrap 5 UI Kit",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/sketch-bootstrap-5-ui-kit.png",
-      "link": "https://www.youtube.com/watch?v=CmnBm7yNE5A"
+      "link": "https://www.youtube.com/watch?v=CmnBm7yNE5A",
+      "featured":"true"
     },
     {
       "id": 39,
       "title": "Exemplar - Avatar Library",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/exemplar-avatar-library-free.png",
-      "link": "https://www.youtube.com/watch?v=PFdHrSmLcZQ"
+      "link": "https://www.youtube.com/watch?v=PFdHrSmLcZQ",
+      "featured": "false"
     },
     {
       "id": 40,
       "title": "FlyonUI Tailwind Components Library",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/10/flyonui-featured-banner.png",
       "link": "https://flyonui.com/",
-      "featured":"true"
+      "featured": "true"
     },
     {
       "id": 41,
       "title": "Sneat ASP.NET MVC Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/sneat-free-aspnet-core-mvc-featured-banner.png",
-      "link": "https://demos.themeselection.com/sneat-aspnet-core-mvc-admin-template-free/html/"
+      "link": "https://demos.themeselection.com/sneat-aspnet-core-mvc-admin-template-free/html/",
+      "featured": "false"
     },
     {
       "id": 42,
       "title": "Materio ASP.NET MVC Admin - Free",
       "image": "https://themeselection.com/wp-content/uploads/2023/12/materio-free-aspnet-core-mvc-featured-banner.png",
-      "link": "https://demos.themeselection.com/materio-aspnet-core-mvc-admin-template-free/html/"
+      "link": "https://demos.themeselection.com/materio-aspnet-core-mvc-admin-template-free/html/",
+      "featured": "false"
     },
     {
       "id": 43,
       "title": "Materio ASP.NET MVC Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-mvc-banner.png",
-      "link": "https://demos.themeselection.com/materio-aspnet-core-mvc-admin-template/html/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/materio-aspnet-core-mvc-admin-template/html/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 44,
       "title": "Sneat ASP.NET MVC Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/banner.png",
-      "link": "https://demos.themeselection.com/sneat-aspnet-core-mvc-admin-template/html/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/sneat-aspnet-core-mvc-admin-template/html/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 45,
       "title": "Materio ASP.NET Core Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-razorpage-banner.png",
-      "link": "https://demos.themeselection.com/materio-aspnet-core-admin-template/html/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/materio-aspnet-core-admin-template/html/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 46,
       "title": "Sneat ASP.NET Core Admin - Pro",
       "image": "https://themeselection.com/wp-content/uploads/2023/12/banner.png",
-      "link": "https://demos.themeselection.com/sneat-aspnet-core-admin-template/html/vertical-menu-template/"
+      "link": "https://demos.themeselection.com/sneat-aspnet-core-admin-template/html/vertical-menu-template/",
+      "featured": "false"
     },
     {
       "id": 47,
       "title": "Replete Modal - Free",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/Replete-modal-free.png",
-      "link": "https://demos.themeselection.com/replete-modal-jquery-modal-popup-script/demo/examples/"
+      "link": "https://demos.themeselection.com/replete-modal-jquery-modal-popup-script/demo/examples/",
+      "featured": "false"
     },
     {
       "id": 48,
       "title": "Effective Tabs",
       "image": "https://themeselection.com/wp-content/uploads/edd/2022/07/effective-tabs.png",
-      "link": "https://demos.themeselection.com/ef-tabs/landing/"
+      "link": "https://demos.themeselection.com/ef-tabs/landing/",
+      "featured": "false"
     }
   ]
 }
