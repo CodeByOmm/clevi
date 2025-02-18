@@ -238,7 +238,8 @@
       "id": 40,
       "title": "FlyonUI Tailwind Components Library",
       "image": "https://themeselection.com/wp-content/uploads/edd/2024/10/flyonui-featured-banner.png",
-      "link": "https://flyonui.com/"
+      "link": "https://flyonui.com/",
+      "featured":"true"
     },
     {
       "id": 41,
