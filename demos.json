@@ -1,8 +1,14 @@
 {
   "adminTemplates": [
     {
+      "id": 0,
+      "title": "Materio Test",
+      "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-free-django-featured-image.png",
+      "link": "https://demos.themeselection.com/materio-html-django-admin-template-free/"
+    },
+    {
       "id": 1,
-      "title": "Materio Dashboard FREE - Django 5ooo",
+      "title": "Materio Dashboard FREE - Django",
       "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-free-django-featured-image.png",
       "link": "https://demos.themeselection.com/materio-html-django-admin-template-free/"
     },
