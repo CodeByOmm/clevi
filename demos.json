@@ -1,16 +1,10 @@
 {
   "adminTemplates": [
     {
-      "id": 0,
-      "title": "Materio next My Test",
-      "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-free-django-featured-image.png",
-      "link": "https://demos.themeselection.com/materio-html-django-admin-template-free/"
-    },
-    {
       "id": 1,
-      "title": "Materio Dashboard FREE - Django",
-      "image": "https://themeselection.com/wp-content/uploads/edd/2023/12/materio-free-django-featured-image.png",
-      "link": "https://demos.themeselection.com/materio-html-django-admin-template-free/"
+      "title": "Materio Dashboard FREE - Django 5",
+      "image": "https://clevision.net/wp-content/uploads/2022/02/sneat-hrml-pro-banner-2-thegem-product-justified-square-xl.png",
+      "link": "https://clevision.net/our-products/"
     },
     {
       "id": 2,
